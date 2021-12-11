@@ -1,0 +1,1101 @@
+[
+    {
+        "Champion_ID": 0,
+        "Class": "Juggernaut",
+        "Resource": "Manaless",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 1,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 2,
+        "Class": "Assassin",
+        "Resource": "Energy",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 3,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 4,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 5,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 6,
+        "Class": "Battlemage",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 7,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 8,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 9,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 10,
+        "Class": "Battlemage",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 11,
+        "Class": "Specialist",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 12,
+        "Class": "Catcher",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 13,
+        "Class": "Catcher",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 14,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 15,
+        "Class": "Warden",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 16,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 17,
+        "Class": "Diver",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 18,
+        "Class": "Battlemage",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 19,
+        "Class": "Specialist",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 20,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 21,
+        "Class": "Juggernaut",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 22,
+        "Class": "Assassin",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 23,
+        "Class": "Juggernaut",
+        "Resource": "Health resource",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 24,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 25,
+        "Class": "Assassin",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 26,
+        "Class": "Diver",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 27,
+        "Class": "Assassin",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 28,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 29,
+        "Class": "Specialist",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 30,
+        "Class": "Skirmisher",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 31,
+        "Class": "Assassin",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 32,
+        "Class": "Warden",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 33,
+        "Class": "Specialist",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 34,
+        "Class": "Juggernaut",
+        "Resource": "Manaless",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 35,
+        "Class": "Specialist",
+        "Resource": "Rage",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 36,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 37,
+        "Class": "Specialist",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 38,
+        "Class": "Skirmisher",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 39,
+        "Class": "Diver",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 40,
+        "Class": "Specialist",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 41,
+        "Class": "Juggernaut",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 42,
+        "Class": "Diver",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 43,
+        "Class": "Catcher",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 44,
+        "Class": "Enchanter",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 45,
+        "Class": "Diver",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 46,
+        "Class": "Skirmisher",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 47,
+        "Class": "Artillery",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 48,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 49,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 50,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 51,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 52,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 53,
+        "Class": "Battlemage",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 54,
+        "Class": "Assassin",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 55,
+        "Class": "Assassin",
+        "Resource": "Manaless",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 56,
+        "Class": "Specialist",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 57,
+        "Class": "Skirmisher",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 58,
+        "Class": "Specialist",
+        "Resource": "Energy",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 59,
+        "Class": "Assassin",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 60,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 61,
+        "Class": "Skirmisher",
+        "Resource": "Courage",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 62,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 63,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 64,
+        "Class": "Diver",
+        "Resource": "Energy",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 65,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 66,
+        "Class": "Skirmisher",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 67,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 68,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 69,
+        "Class": "Enchanter",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 70,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 71,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 72,
+        "Class": "Battlemage",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 73,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 74,
+        "Class": "Skirmisher",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 75,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 76,
+        "Class": "Juggernaut",
+        "Resource": "Shield",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 77,
+        "Class": "Catcher",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 78,
+        "Class": "Enchanter",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 79,
+        "Class": "Juggernaut",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 80,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 81,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 82,
+        "Class": "Specialist",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 83,
+        "Class": "Assassin",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 84,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 85,
+        "Class": "Diver",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 86,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 87,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 88,
+        "Class": "Diver",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 89,
+        "Class": "Warden",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 90,
+        "Class": "Assassin",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 91,
+        "Class": "Assassin",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 92,
+        "Class": "Specialist",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 93,
+        "Class": "Catcher",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 94,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 95,
+        "Class": "Diver",
+        "Resource": "Rage",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 96,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 97,
+        "Class": "Diver",
+        "Resource": "Fury",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 98,
+        "Class": "Assassin",
+        "Resource": "Ferocity",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 99,
+        "Class": "Skirmisher",
+        "Resource": "Manaless",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 100,
+        "Class": "Battlemage",
+        "Resource": "Heat",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 101,
+        "Class": "Battlemage",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 102,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 103,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 104,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 105,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 106,
+        "Class": "Juggernaut",
+        "Resource": "Grit",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 107,
+        "Class": "Assassin",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 108,
+        "Class": "Warden",
+        "Resource": "Energy",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 109,
+        "Class": "Juggernaut",
+        "Resource": "Fury",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 110,
+        "Class": "Specialist",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 111,
+        "Class": "Vanguard",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 112,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 113,
+        "Class": "Diver",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 114,
+        "Class": "Enchanter",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 115,
+        "Class": "Enchanter",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 116,
+        "Class": "Battlemage",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 117,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 118,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 119,
+        "Class": "Warden",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 120,
+        "Class": "Battlemage",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 121,
+        "Class": "Assassin",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 122,
+        "Class": "Enchanter",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 123,
+        "Class": "Specialist",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 124,
+        "Class": "Catcher",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 125,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 126,
+        "Class": "Juggernaut",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 127,
+        "Class": "Skirmisher",
+        "Resource": "Fury",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 128,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 129,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 130,
+        "Class": "Juggernaut",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 131,
+        "Class": "Juggernaut",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 132,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 133,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 134,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 135,
+        "Class": "Artillery",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 136,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 137,
+        "Class": "Diver",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 138,
+        "Class": "Skirmisher",
+        "Resource": "Manaless",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 139,
+        "Class": "Battlemage",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 140,
+        "Class": "Battlemage",
+        "Resource": "Bloodthirst",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 141,
+        "Class": "Juggernaut",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 142,
+        "Class": "Diver",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 143,
+        "Class": "Diver",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 144,
+        "Class": "Marksman",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 145,
+        "Class": "Artillery",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 146,
+        "Class": "Diver",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 147,
+        "Class": "Skirmisher",
+        "Resource": "Flow",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 148,
+        "Class": "Assassin",
+        "Resource": "Manaless",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 149,
+        "Class": "Juggernaut",
+        "Resource": "Mana",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 150,
+        "Class": "Enchanter",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 151,
+        "Class": "Vanguard",
+        "Resource": "Health resource",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 152,
+        "Class": "Assassin",
+        "Resource": "Energy",
+        "Range_Type": "Melee",
+        "Adaptive_Type": "Physical"
+    },
+    {
+        "Champion_ID": 153,
+        "Class": "Artillery",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 154,
+        "Class": "Specialist",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 155,
+        "Class": "Burst",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    },
+    {
+        "Champion_ID": 156,
+        "Class": "Catcher",
+        "Resource": "Mana",
+        "Range_Type": "Ranged",
+        "Adaptive_Type": "Magic"
+    }
+]

@@ -1,0 +1,944 @@
+[
+  {
+    "name": "Aatrox",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/aatrox/",
+    "region": "Runeterra",
+    "background_story": "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find freedom once more, corrupting and transforming those foolish enough to try and wield the magical weapon that contained his essence. Now, with stolen flesh, he walks Runeterra in a brutal approximation of his previous form, seeking an apocalyptic and long overdue vengeance."
+  },
+  {
+    "name": "Ahri",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/ahri/",
+    "region": "Ionia",
+    "background_story": "Innately connected to the magic of the spirit realm, Ahri is a mysterious fox-like vastaya in search of her place in the world. Having become a somewhat reluctant and empathetic predator since entering mortal society, she prefers to manipulate her prey\u2019s emotions before partaking of their life essence\u2014receiving flashes of memory and insight from each soul she consumes."
+  },
+  {
+    "name": "Akali",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/akali/",
+    "region": "Ionia",
+    "background_story": "Abandoning the Kinkou Order and her title of the Fist of Shadow, Akali now strikes alone, ready to be the deadly weapon her people need. Though she holds onto all she learned from her master Shen, she has pledged to defend Ionia from its enemies, one kill at a time. Akali may strike in silence, but her message will be heard loud and clear: fear the assassin with no master."
+  },
+  {
+    "name": "Akshan",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/akshan/",
+    "region": "Shurima",
+    "background_story": "Raising an eyebrow in the face of danger, Akshan fights evil with dashing charisma, righteous vengeance, and a conspicuous lack of shirts. He is highly skilled in the art of stealth combat, able to evade the eyes of his enemies and reappear when they least expect him. With a keen sense of justice and a legendary death-reversing weapon, he rights the wrongs of Runeterra\u2019s many scoundrels while living by his own moral code: \u201cDon\u2019t be an ass.\u201d"
+  },
+  {
+    "name": "Alistar",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/alistar/",
+    "region": "Runeterra",
+    "background_story": "Always a mighty warrior with a fearsome reputation, Alistar seeks revenge for the death of his clan at the hands of the Noxian empire. Though he was enslaved and forced into the life of a gladiator, his unbreakable will was what kept him from truly becoming a beast. Now, free of the chains of his former masters, he fights in the name of the downtrodden and the disadvantaged, his rage as much a weapon as his horns, hooves and fists."
+  },
+  {
+    "name": "Amumu",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/amumu/",
+    "region": "Shurima",
+    "background_story": "Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe a living cadaver, small in stature and wrapped in creeping bandages. Amumu has inspired myths, songs, and folklore told and retold for generations\u2014such that it is impossible to separate truth from fiction."
+  },
+  {
+    "name": "Anivia",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/anivia/",
+    "region": "Freljord",
+    "background_story": "Anivia is a benevolent winged spirit who endures endless cycles of life, death, and rebirth to protect the Freljord. A demi-god born of unforgiving ice and bitter winds, she wields those elemental powers to thwart any who dare disturb her homeland. Anivia guides and protects the tribes of the harsh north, who revere her as a symbol of hope, and a portent of great change. She fights with every ounce of her being, knowing that through her sacrifice, her memory will endure, and she will be reborn into a new tomorrow."
+  },
+  {
+    "name": "Annie",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/annie/",
+    "region": "Runeterra",
+    "background_story": "Dangerous, yet disarmingly precocious, Annie is a child mage with immense pyromantic power. Even in the shadows of the mountains north of Noxus, she is a magical outlier. Her natural affinity for fire manifested early in life through unpredictable, emotional outbursts, though she eventually learned to control these \u201cplayful tricks.\u201d Her favorite includes the summoning of her beloved teddy bear, Tibbers, as a fiery protector. Lost in the perpetual innocence of childhood, Annie wanders the dark forests, always looking for someone to play with."
+  },
+  {
+    "name": "Aphelios",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/aphelios/",
+    "region": "Targon",
+    "background_story": "Emerging from moonlight\u2019s shadow with weapons drawn, Aphelios kills the enemies of his faith in brooding silence\u2014speaking only through the certainty of his aim, and the firing of each gun. Though fueled by a poison that renders him mute, he is guided by his sister Alune in her distant temple sanctuary from where she pushes an arsenal of moonstone weapons into his hands. For as long as the moon shines overhead, Aphelios will never be alone."
+  },
+  {
+    "name": "Ashe",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/ashe/",
+    "region": "Freljord",
+    "background_story": "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north. Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral magics of her lineage to wield a bow of True Ice. With her people\u2019s belief that she is the mythological hero Avarosa reincarnated, Ashe hopes to unify the Freljord once more by retaking their ancient, tribal lands."
+  },
+  {
+    "name": "Aurelion Sol",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/aurelionsol/",
+    "region": "Runeterra",
+    "background_story": "Aurelion Sol once graced the vast emptiness of the celestial realm with wonders of his own devising, but was tricked by the Aspects of Targon into revealing the secrets of a sun that he himself created. His awesome power was channeled into immortal god-warriors to protect the apparently insignificant world of Runeterra\u2014now, desiring a return to his mastery of the cosmos, Aurelion Sol will drag the very stars from the sky, if he must, in order to regain his freedom."
+  },
+  {
+    "name": "Azir",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/azir/",
+    "region": "Shurima",
+    "background_story": "Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but now, millennia later, he has been reborn as an Ascended being of immense power. With his buried city risen from the sand, Azir seeks to restore Shurima to its former glory."
+  },
+  {
+    "name": "Bard",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/bard/",
+    "region": "Runeterra",
+    "background_story": "A traveler from beyond the stars, Bard is an agent of serendipity who strives to maintain the harmony between creation, and the cold indifference of what lies beyond it. Many Runeterrans sing songs that ponder his extraordinary nature, yet they all agree that the cosmic vagabond is drawn to artifacts of great magical power. Surrounded by a jubilant choir of helpful meeps, it is impossible to mistake his actions as malevolent, as Bard always serves the greater good\u2026 in his own odd way."
+  },
+  {
+    "name": "Blitzcrank",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/blitzcrank/",
+    "region": "Zaun",
+    "background_story": "A behemoth of burnished metal, steam, and crackling electricity, Blitzcrank walks the streets of Zaun in a tireless effort to improve the undercity and give aid to those in need. Created to descend into the most caustic and dangerous of environments in Zaun to dispose of harmful waste, they have evolved beyond the bounds of their original programming, thanks to the genius of their inventor, and the mysterious power of hextech."
+  },
+  {
+    "name": "Brand",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/brand/",
+    "region": "Runeterra",
+    "background_story": "Once a tribesman of the icy Freljord named Kegan Rodhe, the creature known as Brand is a lesson in the temptation of greater power. Seeking one of the legendary World Runes, Kegan betrayed his companions and seized it for himself\u2014and, in an instant, the man was no more. His soul burned away, his body a vessel of living flame, Brand now roams Valoran in search of other Runes, swearing revenge for wrongs he could not have suffered in a dozen mortal lifetimes."
+  },
+  {
+    "name": "Braum",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/braum/",
+    "region": "Freljord",
+    "background_story": "Blessed with massive biceps and an even bigger heart, Braum is a beloved Iceborn hero of the Freljord. Every mead hall north of Frostheld toasts his legendary strength and tells tales of how he felled a forest of oaks in a single night, and punched an entire mountain into rubble. With his shield, an enchanted vault door forged in ages past, Braum roams the frozen north as a cheerful protector, helping the vulnerable as he works toward his dream of a peaceful Freljord."
+  },
+  {
+    "name": "Caitlyn",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/caitlyn/",
+    "region": "Piltover",
+    "background_story": "Renowned as its finest peacekeeper, Caitlyn is also Piltover\u2019s best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner\u2019s more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn\u2019s most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress."
+  },
+  {
+    "name": "Camille",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/camille/",
+    "region": "Piltover",
+    "background_story": "Weaponized to operate outside the boundaries of the law, Camille is the Principal Intelligencer of Clan Ferros\u2014an elegant and elite agent who ensures the Piltover machine and its Zaunite underbelly run smoothly. Adaptable and precise, she views sloppy technique as an embarrassment that must be put to order. With a mind as sharp as the blades she bears, Camille's pursuit of superiority through hextech body augmentation has left many to wonder if she is now more machine than human."
+  },
+  {
+    "name": "Cassiopeia",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/cassiopeia/",
+    "region": "Noxus",
+    "background_story": "Cassiopeia is a deadly creature bent on manipulating others to her will. Youngest and most beautiful daughter of the noble Du Couteau family of Noxus, she ventured deep into the crypts beneath Shurima in search of ancient power. There, she was bitten by a gruesome tomb guardian, whose venom transformed her into a viper-like predator. Cunning and agile, Cassiopeia now slithers under the veil of night, petrifying her enemies with her baleful gaze."
+  },
+  {
+    "name": "Cho'Gath",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/chogath/",
+    "region": "The Void",
+    "background_story": "From the moment Cho\u2019Gath first emerged into the harsh light of Runeterra\u2019s sun, the beast was driven by the most pure and insatiable hunger. A perfect expression of the Void\u2019s desire to consume all life, Cho\u2019Gath\u2019s complex biology quickly converts matter into new bodily growth\u2014increasing its muscle mass and density, or hardening its outer carapace like organic diamond. When growing larger does not suit the Void-spawn\u2019s needs, it vomits out the excess material as razor-sharp spines, leaving prey skewered and ready to feast upon later."
+  },
+  {
+    "name": "Corki",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/corki/",
+    "region": "Bandle City",
+    "background_story": "The yordle pilot Corki loves two things above all others: flying, and his glamorous mustache... though not necessarily in that order. After leaving Bandle City, he settled in Piltover and fell in love with the wondrous machines he found there. He dedicated himself to the development of flying contraptions, leading an aerial defense force of seasoned veterans known as the Screaming Yipsnakes. Calm under fire, Corki patrols the skies around his adopted home, and has never encountered a problem that a good missile barrage couldn\u2019t solve."
+  },
+  {
+    "name": "Darius",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/darius/",
+    "region": "Noxus",
+    "background_story": "There is no greater symbol of Noxian might than Darius, the nation\u2019s most feared and battle-hardened leader. Rising from humble origins to become the Hand of Noxus, he cleaves through the empire\u2019s enemies\u2014many of them Noxians themselves. Knowing that he never doubts his cause is just, and never hesitates once his axe is raised, those who stand against the commander of the Trifarian Legion can expect no mercy."
+  },
+  {
+    "name": "Diana",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/diana/",
+    "region": "Targon",
+    "background_story": "Bearing her crescent moonblade and clad in shimmering armor the color of winter snow at night, Diana is a living embodiment of the silver moon\u2019s power. Imbued with the essence of an Aspect from beyond Targon\u2019s towering summit, Diana is no longer wholly human, and struggles to understand her power and purpose in this world."
+  },
+  {
+    "name": "Dr. Mundo",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/drmundo/",
+    "region": "Zaun",
+    "background_story": "Utterly mad, tragically homicidal, and horrifyingly purple, Dr. Mundo is what keeps many of Zaun\u2019s citizens indoors on particularly dark nights. Now a self-proclaimed physician, he was once a patient of Zaun\u2019s most infamous asylum. After \u201ccuring\u201d the entire staff, Dr. Mundo established his practice in the empty wards that once treated him and began mimicking the highly unethical procedures he had so often experienced himself. With a full cabinet of medicines and zero medical knowledge, he now makes himself more monstrous with each injection and terrifies the hapless \u201cpatients\u201d who wander near his office."
+  },
+  {
+    "name": "Draven",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/draven/",
+    "region": "Noxus",
+    "background_story": "In Noxus, warriors known as reckoners face one another in arenas where blood is spilled and strength tested\u2014but none has ever been as celebrated as Draven. A former soldier, he found that the crowds uniquely appreciated his flair for the dramatic, not to mention the spray of blood from each of his spinning axes. Addicted to the spectacle of his own brash perfection, Draven has sworn to defeat whomever he must to ensure that his name is chanted throughout the empire forever more."
+  },
+  {
+    "name": "Ekko",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/ekko/",
+    "region": "Zaun",
+    "background_story": "A prodigy from the rough streets of Zaun, Ekko manipulates time to twist any situation to his advantage. Using his own invention, the Z-Drive, he explores the branching possibilities of reality to craft the perfect moment. Though he revels in this freedom, when there\u2019s a threat to his friends, he\u2019ll do anything to defend them. To outsiders, Ekko seems to achieve the impossible the first time, every time."
+  },
+  {
+    "name": "Elise",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/elise/",
+    "region": "Shadow Isles",
+    "background_story": "Elise is a deadly predator who dwells in a shuttered, lightless palace, deep within the oldest city of Noxus. She was once the mistress of a powerful noble house, until the bite of a vile spider-god transformed her into something utterly inhuman, yet still beautiful\u2014an arachnoid creature, drawing unsuspecting prey into her web. Elise now feeds upon the naive and the faithless, and there are few who can resist her seductions."
+  },
+  {
+    "name": "Evelynn",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/evelynn/",
+    "region": "Runeterra",
+    "background_story": "Within the dark seams of Runeterra, the demon Evelynn searches for her next victim. She lures in prey with the voluptuous fa\u00e7ade of a human female, but once a person succumbs to her charms, Evelynn\u2019s true form is unleashed. She then subjects her victim to unspeakable torment, gratifying herself with their pain. To the demon, these liaisons are innocent flings. To the rest of Runeterra, they are ghoulish tales of lust gone awry and horrific reminders of the cost of wanton desire."
+  },
+  {
+    "name": "Ezreal",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/ezreal/",
+    "region": "Piltover",
+    "background_story": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure\u2014whenever Ezreal is around, trouble isn\u2019t too far behind. Or ahead. Probably everywhere."
+  },
+  {
+    "name": "Fiddlesticks",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/fiddlesticks/",
+    "region": "Runeterra",
+    "background_story": "Something has awoken in Runeterra. Something ancient. Something terrible. The ageless horror known as Fiddlesticks stalks the edges of mortal society, drawn to areas thick with paranoia where it feeds upon terrorized victims. Wielding a jagged scythe, the haggard, makeshift creature reaps fear itself, shattering the minds of those unlucky enough to survive in its wake. Beware the sounding of the crow, or the whispering of the shape that appears almost human\u2026 Fiddlesticks has returned."
+  },
+  {
+    "name": "Fiora",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/fiora/",
+    "region": "Demacia",
+    "background_story": "The most feared duelist in all Valoran, Fiora is as renowned for her brusque manner and political cunning as she is for the speed of her rapier. Born to the noble Laurent family in Demacia, Fiora claimed the household from her father in the wake of a scandal that nearly destroyed them\u2014now she is dedicated to restoring the Laurents to their rightful place among the great and good of the kingdom."
+  },
+  {
+    "name": "Fizz",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/fizz/",
+    "region": "Runeterra",
+    "background_story": "Fizz is an amphibious yordle, who dwells among the reefs surrounding Bilgewater. He often retrieves and returns the tithes cast into the sea by superstitious captains, but even the saltiest of sailors know better than to cross him\u2014for many are the tales of those who have underestimated this slippery character. Often mistaken for some manner of capricious ocean spirit, he seems able to command the beasts of the deep, and delights in confounding his allies and enemies alike."
+  },
+  {
+    "name": "Galio",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/galio/",
+    "region": "Demacia",
+    "background_story": "Outside the Great City of Demacia, the stone colossus Galio keeps vigilant watch. Built as a bulwark against enemy mages, he often stands motionless for decades until the presence of powerful magic stirs him to life. Once activated, Galio makes the most of his time, savoring the thrill of a fight and the rare honor of defending his countrymen. But his triumphs are always bittersweet, for the magic he destroys is also his source of reanimation, and each victory leaves him dormant once again."
+  },
+  {
+    "name": "Gangplank",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/gangplank/",
+    "region": "Bilgewater",
+    "background_story": "As unpredictable as he is brutal, the dethroned reaver king Gangplank is feared far and wide. Once, he ruled the port city of Bilgewater, and while his reign is over, there are those who believe this has only made him more dangerous. Gangplank would see Bilgewater bathed in blood once more before letting someone else take it\u2014and now with pistol, cutlass, and barrels of gunpowder, he is determined to reclaim what he has lost."
+  },
+  {
+    "name": "Garen",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/garen/",
+    "region": "Demacia",
+    "background_story": "A proud and noble soldier, Garen fights at the head of the Dauntless Vanguard. He is popular among his fellows, and respected well enough by his enemies\u2014not least as a scion of the prestigious Crownguard family, entrusted with defending Demacia and its ideals. Clad in magic-resistant armor and bearing a mighty broadsword, Garen stands ready to confront mages and sorcerers on the field of battle, in a veritable whirlwind of righteous steel."
+  },
+  {
+    "name": "Gnar",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/gnar/",
+    "region": "Freljord",
+    "background_story": "Gnar is an excitable yordle whose playful antics can erupt into a toddler\u2019s outrage in an instant, transforming him into a massive beast bent on destruction. Frozen in True Ice for millennia, the curious creature broke free and now hops about a changed world he sees as exotic and wondrous. Delighted by danger, Gnar flings whatever he can at his enemies, be it his bonetooth boomerang... or an uprooted tree."
+  },
+  {
+    "name": "Gragas",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/gragas/",
+    "region": "Freljord",
+    "background_story": "Equal parts jolly and imposing, Gragas is a massive, rowdy brewmaster on his own quest for the perfect pint of ale. Hailing from parts unknown, he now searches for rare ingredients among the unblemished wastes of the Freljord, trying each recipe as he goes. Often intoxicated and extremely impulsive, he is legendary for the brawls he starts, which often end in all-night parties and widespread property damage. Any appearance from Gragas must surely foreshadow drinking and destruction\u2014in that order."
+  },
+  {
+    "name": "Graves",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/graves/",
+    "region": "Bilgewater",
+    "background_story": "Malcolm Graves is a renowned mercenary, gambler, and thief\u2014a wanted man in every city and empire he has visited. Even though he has an explosive temper, he possesses a sense of criminal honor, often enforced at the business end of his double-barreled shotgun Destiny. In recent years, he has reconciled a troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of Bilgewater\u2019s criminal underbelly."
+  },
+  {
+    "name": "Gwen",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/gwen/",
+    "region": "Shadow Isles",
+    "background_story": "A former doll transformed and brought to life by magic, Gwen wields the very tools that once created her. She carries the weight of her maker\u2019s love with every step, taking nothing for granted. At her command is the Hallowed Mist, an ancient and protective magic that has blessed Gwen\u2019s scissors, needles, and sewing thread. So much is new to her, but Gwen remains joyfully determined to fight for the good that survives in a broken world."
+  },
+  {
+    "name": "Hecarim",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/hecarim/",
+    "region": "Shadow Isles",
+    "background_story": "Hecarim is a spectral fusion of man and beast, cursed to ride down the souls of the living for all eternity. When the Blessed Isles fell into shadow, this proud knight was undone by the destructive energies of the Ruination, along with all his cavalry and their mounts. Now, whenever the Black Mist reaches out across Runeterra, he leads their devastating charge, reveling in the slaughter and crushing foes beneath his armored hooves."
+  },
+  {
+    "name": "Heimerdinger",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/heimerdinger/",
+    "region": "Piltover",
+    "background_story": "A brilliant yet eccentric yordle scientist, Professor Cecil B. Heimerdinger is one of the most innovative and esteemed inventors Piltover has ever known. Relentless in his work to the point of neurotic obsession, he thrives on answering the universe\u2019s most impenetrable questions. Though his theories often appear opaque and esoteric, Heimerdinger has crafted some of Piltover\u2019s most miraculous\u2014not to mention lethal\u2014machinery, and constantly tinkers with his inventions to make them even more efficient."
+  },
+  {
+    "name": "Illaoi",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/illaoi/",
+    "region": "Bilgewater",
+    "background_story": "Illaoi\u2019s powerful physique is dwarfed only by her indomitable faith. As the prophet of the Great Kraken, she uses a huge, golden idol to rip her foes\u2019 spirits from their bodies and shatter their perception of reality. All who challenge the \u201cTruth Bearer of Nagakabouros\u201d soon discover Illaoi never battles alone\u2014the god of the Serpent Isles fights by her side."
+  },
+  {
+    "name": "Irelia",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/irelia/",
+    "region": "Ionia",
+    "background_story": "The Noxian occupation of Ionia produced many heroes, none more unlikely than young Irelia of Navori. Trained in the ancient dances of her province, she adapted her art for war, using the graceful and carefully practised movements to levitate a host of deadly blades. After proving herself as a fighter, she was thrust into the role of resistance leader and figurehead, and to this day remains dedicated to the preservation of her homeland."
+  },
+  {
+    "name": "Ivern",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/ivern/",
+    "region": "Ionia",
+    "background_story": "Ivern, known to many as Bramblefoot or the Old Woodsman, is a peculiar half-man, half-tree who roams the wilds of Runeterra, cultivating life everywhere he goes. He knows all the secrets of the natural world, and holds deep friendships with things that grow, fly, and scuttle. Ivern enriches the forests, imparts strange wisdom to any mortal he meets, and occasionally entrusts loose-lipped butterflies with his secrets."
+  },
+  {
+    "name": "Janna",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/janna/",
+    "region": "Zaun",
+    "background_story": "An ancient and mysterious wind spirit, Janna has come to protect the dispossessed of Zaun. While her presence is most often felt as a soothing breeze or a ferocious tempest, she also can manifest in corporeal form as an ethereal figure, comforting the downtrodden. Over the eons, Janna has witnessed the rise and fall of civilizations. Through it all, she remains steadfast as a beacon of hope to those in need."
+  },
+  {
+    "name": "Jarvan IV",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/jarvaniv/",
+    "region": "Demacia",
+    "background_story": "As the king\u2019s only son, Prince Jarvan is heir apparent to the throne of Demacia. Raised to be a paragon of his nation\u2019s greatest virtues, he is forced to balance the heavy expectations placed upon him with his own desire to prove himself on the battlefield. An exceptional warrior in his own right, Jarvan also inspires his troops with fearsome courage and selfless determination, raising his family\u2019s colors high and revealing his true strength as a future leader of his people."
+  },
+  {
+    "name": "Jax",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/jax/",
+    "region": "Runeterra",
+    "background_story": "Runeterra\u2019s greatest weapons master, Jax is the only survivor of the Kohari\u2014champions sworn to the defense of Icathia. But when the Void was unleashed against the Shuriman empire\u2019s Ascended Host, Icathia was destroyed, leaving Jax without a home or purpose. He gathered the \u201clast light of Icathia\u201d, a symbol of his hope to one day defeat the Void, and now travels the world, searching for warriors strong enough to face the coming darkness by his side."
+  },
+  {
+    "name": "Jayce",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/jayce/",
+    "region": "Piltover",
+    "background_story": "Jayce is a brilliant inventor who has pledged his life to the defense of Piltover and its unyielding pursuit of progress. With his transforming hextech hammer in hand, Jayce uses his strength, courage, and considerable intelligence to protect his hometown. While revered throughout the city as a hero, he hasn\u2019t taken well to the attention heroism brings. Still, Jayce\u2019s heart is in the right place, and even those who envy his natural skills are grateful for his protection in the City of Progress."
+  },
+  {
+    "name": "Jhin",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/jhin/",
+    "region": "Ionia",
+    "background_story": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia\u2019s ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most powerful of messages: terror."
+  },
+  {
+    "name": "Jinx",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/jinx/",
+    "region": "Zaun",
+    "background_story": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without care for the consequences. With an arsenal of deadly weapons, she unleashes the loudest blasts and brightest explosions to leave a trail of mayhem and panic in her wake. Jinx despises boredom, and gleefully brings her own chaotic brand of pandemonium wherever she goes."
+  },
+  {
+    "name": "Kai'Sa",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/kaisa/",
+    "region": "The Void",
+    "background_story": "Claimed by the Void when she was only a child, Kai\u2019Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered into an uneasy symbiosis with a living Void carapace, the time will soon come when she must decide whether to forgive those mortals who would call her a monster, and defeat the coming darkness together\u2026 or simply to forget, as the Void consumes the world that left her behind."
+  },
+  {
+    "name": "Kalista",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/kalista/",
+    "region": "Shadow Isles",
+    "background_story": "An undying specter of wrath and retribution, Kalista is an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing to pay with their very souls. Those who become the focus of Kalista\u2019s wrath should make their final peace, for any pact sealed with this grim hunter can only be ended by the cold, piercing fire of her soul-spears."
+  },
+  {
+    "name": "Karma",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/karma/",
+    "region": "Ionia",
+    "background_story": "No mortal exemplifies the spiritual traditions of Ionia more than Karma. She is the living embodiment of an ancient soul reincarnated countless times, carrying all her accumulated memories into each new life, and blessed with power that few can comprehend. She has done her best to guide her people in recent times of crisis, though she knows that peace and harmony may come only at a considerable cost\u2014both to her, and to the land she holds most dear."
+  },
+  {
+    "name": "Karthus",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/karthus/",
+    "region": "Shadow Isles",
+    "background_story": "The harbinger of oblivion, Karthus is an undying spirit whose haunting songs are a prelude to the horror of his nightmarish appearance. The living fear the eternity of undeath, but Karthus sees only beauty and purity in its embrace, a perfect union of life and death. When Karthus emerges from the Shadow Isles, it is to bring the joy of death to mortals, an apostle of the unliving."
+  },
+  {
+    "name": "Kassadin",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/kassadin/",
+    "region": "The Void",
+    "background_story": "Cutting a burning swath through the darkest places of the world, Kassadin knows his days are numbered. A widely traveled Shuriman guide and adventurer, he had chosen to raise a family among the peaceful southern tribes\u2014until the day his village was consumed by the Void. He vowed vengeance, combining a number of arcane artifacts and forbidden technologies for the struggle ahead. Finally, Kassadin set out for the wastelands of Icathia, ready to face any monstrous Void-construct in his search for their self-proclaimed prophet, Malzahar."
+  },
+  {
+    "name": "Katarina",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/katarina/",
+    "region": "Noxus",
+    "background_story": "Decisive in judgment and lethal in combat, Katarina is a Noxian assassin of the highest caliber. Eldest daughter to the legendary General Du Couteau, she made her talents known with swift kills against unsuspecting enemies. Her fiery ambition has driven her to pursue heavily-guarded targets, even at the risk of endangering her allies\u2014but no matter the mission, Katarina will not hesitate to execute her duty amid a whirlwind of serrated daggers."
+  },
+  {
+    "name": "Kayle",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/kayle/",
+    "region": "Demacia",
+    "background_story": "Born to a Targonian Aspect at the height of the Rune Wars, Kayle honored her mother\u2019s legacy by fighting for justice on wings of divine flame. She and her twin sister Morgana were the protectors of Demacia for many years\u2014until Kayle became disillusioned with the repeated failings of mortals, and abandoned this realm altogether. Still, legends are told of her punishing the unjust with her fiery swords, and many hope that she will one day return\u2026"
+  },
+  {
+    "name": "Kayn",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/kayn/",
+    "region": "Ionia",
+    "background_story": "A peerless practitioner of lethal shadow magic, Shieda Kayn battles to achieve his true destiny\u2014to one day lead the Order of Shadow into a new era of Ionian supremacy. He wields the sentient darkin weapon Rhaast, undeterred by its creeping corruption of his body and mind. There are only two possible outcomes: either Kayn bends the weapon to his will... or the malevolent blade consumes him completely, paving the way for the destruction of all Runeterra."
+  },
+  {
+    "name": "Kennen",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/kennen/",
+    "region": "Ionia",
+    "background_story": "The longest-standing member of the ancient Kinkou Order, the yordle Kennen is the first and only Heart of the Tempest. For centuries, he has used diplomacy\u2014and force\u2014to maintain the sacred balance in his adopted home of Ionia. Lightning fast and bearing the wisdom of a long and storied life, Kennen works with the Eye of Twilight, Shen, to protect the fragile harmony of the First Lands with a whirling storm of shuriken and devastating electrical energy."
+  },
+  {
+    "name": "Kha'Zix",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/khazix/",
+    "region": "The Void",
+    "background_story": "The Void grows, and the Void adapts\u2014in none of its myriad spawn are these truths more apparent than Kha\u2019Zix. Evolution drives the core of this mutating horror, born to survive and to slay the strong. Where it struggles to do so, it grows new, more effective ways to counter and kill its prey. Initially a mindless beast, Kha\u2019Zix\u2019s intelligence has developed as much as its form. Now, the creature plans out its hunts, and even utilizes the visceral terror it engenders in its victims."
+  },
+  {
+    "name": "Kindred",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/kindred/",
+    "region": "Runeterra",
+    "background_story": "Separate, but never parted, Kindred represents the twin essences of death. Lamb\u2019s bow offers a swift release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their end, delivering violent finality within his crushing jaws. Though interpretations of Kindred\u2019s nature vary across Runeterra, every mortal must choose the true face of their death."
+  },
+  {
+    "name": "Kled",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/kled/",
+    "region": "Noxus",
+    "background_story": "A warrior as fearless as he is ornery, the yordle Kled embodies the furious bravado of Noxus. Many claim Kled has fought in every campaign the warhosts have waged, acquired every military title, and never once backed down from a fight. Though the truth of the matter is often questionable, one part of his legend is always the same: charging into battle on his un-trusty steed, Skaarl, Kled fights to protect what\u2019s his\u2026 and takes whatever else he can get."
+  },
+  {
+    "name": "Kog'Maw",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/kogmaw/",
+    "region": "The Void",
+    "background_story": "Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog\u2019Maw is an inquisitive yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool on anything within reach to truly understand it. Though not inherently evil, Kog\u2019Maw\u2019s beguiling naivet\u00e9 is dangerous, as it often precedes a feeding frenzy\u2014not for sustenance, but to satisfy its unending curiosity."
+  },
+  {
+    "name": "LeBlanc",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/leblanc/",
+    "region": "Noxus",
+    "background_story": "Mysterious even to other members of the Black Rose cabal, LeBlanc is but one of many names for a pale woman who has manipulated people and events since the earliest days of Noxus. Using her magic to mirror herself, the sorceress can appear to anyone, anywhere, and even be in many places at once. Always plotting just out of sight, LeBlanc\u2019s true motives are as inscrutable as her shifting identity."
+  },
+  {
+    "name": "Lee Sin",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/leesin/",
+    "region": "Ionia",
+    "background_story": "A master of Ionia\u2019s ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland against any who would dare upset its sacred balance. Enemies who underestimate his meditative demeanor will endure his fabled burning fists and blazing roundhouse kicks."
+  },
+  {
+    "name": "Leona",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/leona/",
+    "region": "Targon",
+    "background_story": "Imbued with the fire of the sun, Leona is a holy warrior of the Solari who defends Mount Targon with her Zenith Blade and the Shield of Daybreak. Her skin shimmers with starfire while her eyes burn with the power of the celestial Aspect within her. Armored in gold and bearing a terrible burden of ancient knowledge, Leona brings enlightenment to some, death to others."
+  },
+  {
+    "name": "Lillia",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/lillia/",
+    "region": "Ionia",
+    "background_story": "Intensely shy, the fae fawn Lillia skittishly wanders Ionia\u2019s forests. Hiding just out of sight of mortals\u2014whose mysterious natures have long captivated, but intimidated, her\u2014Lillia hopes to discover why their dreams no longer reach the ancient Dreaming Tree. She now travels Ionia with a magical branch in hand, in an effort to find people\u2019s unrealized dreams. Only then can Lillia herself bloom and help others untangle their fears to find the sparkle within. Eep!"
+  },
+  {
+    "name": "Lissandra",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/lissandra/",
+    "region": "Freljord",
+    "background_story": "As the reclusive leader of the Frostguard, many believe Lissandra is a living saint whose followers bring healing and wisdom to the tribes of the Freljord. The truth is perhaps more sinister, as she uses her elemental magic to twist the power of True Ice into something dark and terrible, entombing or impaling any who would reveal her deepest secrets. Indeed, the legacy of her past may yet be the beginning of the end for Runeterra."
+  },
+  {
+    "name": "Lucian",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/lucian/",
+    "region": "Runeterra",
+    "background_story": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance\u2014but even with her return to life, his rage is undiminished. Merciless and single-minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist."
+  },
+  {
+    "name": "Lulu",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/lulu/",
+    "region": "Bandle City",
+    "background_story": "The yordle mage Lulu is known for conjuring dreamlike illusions and fanciful creatures as she roams Runeterra with her fairy companion Pix. Lulu shapes reality on a whim, warping the fabric of the world, and what she views as the constraints of this mundane, physical realm. While others might consider her magic at best unnatural, and at worst dangerous, she believes everyone could use a touch of enchantment."
+  },
+  {
+    "name": "Lux",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/lux/",
+    "region": "Demacia",
+    "background_story": "Luxanna Crownguard hails from Demacia, an insular realm where magical abilities are viewed with fear and suspicion. Able to bend light to her will, she grew up dreading discovery and exile, and was forced to keep her power secret in order to preserve her family\u2019s noble status. Nonetheless, Lux\u2019s optimism and resilience have led her to embrace her unique talents, and she now seeks to bring greater tolerance and understanding to her homeland."
+  },
+  {
+    "name": "Malphite",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/malphite/",
+    "region": "Ixtal",
+    "background_story": "A massive creature of living stone, Malphite was born from the heart of the great Ixtali construct known as the Monolith. He has studied the elemental balance of Runeterra for centuries, using his tremendous strength to maintain order in a frequently chaotic world, and crush the dark things that crawl beneath it. Now, roused all too often from his slumbers, Malphite endures the fluid temperaments of mortals, in pursuit of the only cause worthy of the last of his kind."
+  },
+  {
+    "name": "Malzahar",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/malzahar/",
+    "region": "The Void",
+    "background_story": "A zealous seer dedicated to the unification of all life, Malzahar truly believes the newly emergent Void to be the path to Runeterra\u2019s salvation. In the desert wastes of Shurima, he followed the voices that whispered in his mind, all the way to ancient Icathia. Amidst the ruins of that land, he gazed into the dark heart of the Void itself, and was gifted new power and purpose. Malzahar now sees himself as a shepherd, empowered to bring others into the fold\u2026 or to release the voidling creatures that dwell beneath."
+  },
+  {
+    "name": "Maokai",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/maokai/",
+    "region": "Shadow Isles",
+    "background_story": "Maokai is a rageful, towering treant who fights the unnatural horrors of the Shadow Isles. He was twisted into a force of vengeance after a magical cataclysm destroyed his home, surviving undeath only through the Waters of Life infused within his heartwood. Once a peaceful nature spirit, Maokai now furiously battles to banish the scourge of unlife from the Shadow Isles and restore his home to its former beauty."
+  },
+  {
+    "name": "Master Yi",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/masteryi/",
+    "region": "Ionia",
+    "background_story": "Master Yi has tempered his body and sharpened his mind, so that thought and action have become almost as one. Though he chooses to enter into violence only as a last resort, the grace and speed of his blade ensures resolution is always swift. As one of the last living practitioners of the Ionian art of Wuju, Yi has devoted his life to continuing the legacy of his people\u2014scrutinizing potential new disciples with the Seven Lenses of Insight to identify the most worthy among them."
+  },
+  {
+    "name": "Miss Fortune",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/missfortune/",
+    "region": "Bilgewater",
+    "background_story": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank murder her family\u2014an act she brutally avenged years later, blowing up his flagship while he was still aboard. Those who underestimate her will face a beguiling and unpredictable opponent\u2026 and, likely, a bullet or two in their guts."
+  },
+  {
+    "name": "Mordekaiser",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/mordekaiser/",
+    "region": "Noxus",
+    "background_story": "Twice slain and thrice born, Mordekaiser is a brutal warlord from a foregone epoch, who uses his necromantic sorcery to bind souls into an eternity of servitude. Few now remain who remember his earlier conquests, or know the true extent of his powers\u2014but there are some ancient souls that do, and they fear the day when he may return to claim dominion over both the living and the dead."
+  },
+  {
+    "name": "Morgana",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/morgana/",
+    "region": "Demacia",
+    "background_story": "Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from the shadows of Demacia\u2014even as others seek to repress it\u2014by casting shields and chains of dark fire. More than anything else, Morgana truly believes that even the banished and outcast may one day rise again."
+  },
+  {
+    "name": "Nami",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/nami/",
+    "region": "Runeterra",
+    "background_story": "A headstrong young vastaya of the seas, Nami was the first of the Marai tribe to leave the waves and venture onto dry land, when their ancient accord with the Targonians was broken. With no other option, she took it upon herself to complete the sacred ritual that would ensure the safety of her people. Amidst the chaos of this new age, Nami faces an uncertain future with grit and determination, using her Tidecaller staff to summon the strength of the oceans themselves."
+  },
+  {
+    "name": "Nasus",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/nasus/",
+    "region": "Shurima",
+    "background_story": "Nasus is an imposing, jackal-headed Ascended\u2014those heroic and god-like figures once revered by the people of Shurima. Fiercely intelligent, he was a guardian of knowledge and peerless strategist whose wisdom guided the empire to greatness for many centuries. After the failed Ascension of Azir, Nasus went into self-imposed exile, becoming little more than a legend. Now that the Sun Disc has risen once more, he has returned, determined to ensure it never falls again."
+  },
+  {
+    "name": "Nautilus",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/nautilus/",
+    "region": "Bilgewater",
+    "background_story": "A lonely legend as old as the first piers sunk in Bilgewater, the armored goliath known as Nautilus roams the dark waters off the coast of the Blue Flame Isles. Driven by a forgotten betrayal, he strikes without warning, swinging his enormous anchor to save the wretched, and drag the greedy to their doom. It is said he comes for those who forget to pay the \u201cBilgewater tithe\u201d, pulling them down beneath the waves with him\u2014an iron-clad reminder that none can escape the depths."
+  },
+  {
+    "name": "Neeko",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/neeko/",
+    "region": "Ixtal",
+    "background_story": "Hailing from a long lost tribe of vastaya, Neeko can blend into any crowd by borrowing the appearances of others, even absorbing something of their emotional state to tell friend from foe in an instant. No one is ever sure where\u2014or who\u2014Neeko might be, but those who intend to do her harm will soon witness her true colors revealed, and feel the full power of her primordial spirit magic unleashed upon them."
+  },
+  {
+    "name": "Nidalee",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/nidalee/",
+    "region": "Ixtal",
+    "background_story": "Raised in the deepest jungle, Nidalee is a master tracker who can shapeshift into a ferocious cougar at will. Neither wholly woman nor beast, she viciously defends her territory from any and all trespassers, with carefully placed traps and deft spear throws. She cripples her quarry before pouncing on them in feline form\u2014the lucky few who survive tell tales of a wild woman with razor-sharp instincts, and even sharper claws..."
+  },
+  {
+    "name": "Nocturne",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/nocturne/",
+    "region": "Runeterra",
+    "background_story": "A demonic amalgamation drawn from the nightmares that haunt every sentient mind, the thing known as Nocturne has become a primordial force of pure terror. It is liquidly chaotic in aspect, a faceless shadow with cold eyes and armed with wicked-looking blades. After freeing itself from the spirit realm, Nocturne now continually descends upon the waking world, to feed on the kind of fear that can only thrive in true darkness."
+  },
+  {
+    "name": "Nunu & Willump",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/nunu/",
+    "region": "Freljord",
+    "background_story": "Once upon a time, there was a boy who wanted to prove he was a hero by slaying a fearsome monster\u2014only to discover that the beast, a lonely and magical yeti, merely needed a friend. Bound together by ancient power and a shared love of snowballs, Nunu and Willump now ramble wildly across the Freljord, breathing life into imagined adventures. They hope that somewhere out there, they will find Nunu\u2019s mother. If they can save her, maybe they will be heroes after all\u2026"
+  },
+  {
+    "name": "Olaf",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/olaf/",
+    "region": "Freljord",
+    "background_story": "An unstoppable force of destruction, the axe-wielding Olaf wants nothing but to die in glorious combat. Hailing from the brutal Freljordian peninsula of Lokfar, he once received a prophecy foretelling his peaceful passing\u2014a coward's fate, and a great insult among his people. Seeking death, and fueled by rage, he rampaged across the land, slaughtering scores of great warriors and legendary beasts in search of any opponent who could stop him. Now a brutal enforcer for the Winter's Claw, he seeks his end in the great wars to come."
+  },
+  {
+    "name": "Orianna",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/orianna/",
+    "region": "Piltover",
+    "background_story": "Once a curious girl of flesh and blood, Orianna is now a technological marvel composed entirely of clockwork. She became gravely ill after an accident in the lower districts of Zaun, and her failing body had to be replaced with exquisite artifice, piece by piece. Accompanied by the extraordinary brass orb that houses her hextech arsenal, Orianna is now free to explore the wonders of Piltover, and beyond."
+  },
+  {
+    "name": "Ornn",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/ornn/",
+    "region": "Freljord",
+    "background_story": "Ornn is the Freljordian demi-god of forging and craftsmanship. He works in the solitude of a massive smithy, hammered out from the lava caverns beneath the volcano Hearth-Home. There he stokes bubbling cauldrons of molten rock to purify ores and fashion items of unsurpassed quality. When other deities\u2014especially Volibear\u2014walk the earth and meddle in mortal affairs, Ornn arises to put these impetuous beings back in their place, either with his trusty hammer or the fiery power of the mountains themselves."
+  },
+  {
+    "name": "Pantheon",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/pantheon/",
+    "region": "Targon",
+    "background_story": "Once an unwilling host to the Aspect of War, Atreus survived when the celestial power within him was slain, refusing to succumb to a blow that tore stars from the heavens. In time, he learned to embrace the power of his own mortality, and the stubborn resilience that goes along with it. Atreus now opposes the divine as Pantheon reborn, his unbreakable will fueling the fallen Aspect\u2019s weapons on the field of battle."
+  },
+  {
+    "name": "Poppy",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/poppy/",
+    "region": "Demacia",
+    "background_story": "Runeterra has no shortage of valiant champions, but few are as tenacious as Poppy. Bearing the legendary hammer of Orlon, a weapon twice her size, this determined yordle has spent untold years searching in secret for the fabled \u201cHero of Demacia,\u201d said to be its rightful wielder. Until then, she dutifully charges into battle, pushing back the kingdom\u2019s enemies with every whirling strike."
+  },
+  {
+    "name": "Pyke",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/pyke/",
+    "region": "Bilgewater",
+    "background_story": "A renowned harpooner from the slaughter docks of Bilgewater, Pyke should have met his death in the belly of a gigantic jaull-fish\u2026 and yet, he returned. Now, stalking the dank alleys and backways of his former hometown, he uses his new supernatural gifts to bring a swift and gruesome end to those who make their fortune by exploiting others\u2014and a city that prides itself on hunting monsters now finds a monster hunting them."
+  },
+  {
+    "name": "Qiyana",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/qiyana/",
+    "region": "Ixtal",
+    "background_story": "In the jungle city of Ixaocan, Qiyana plots her own ruthless path to the high seat of the Yun Tal. Last in line to succeed her parents, she faces those who stand in her way with brash confidence and unprecedented mastery over elemental magic. With the land itself obeying her every command, Qiyana sees herself as the greatest elementalist in the history of Ixaocan\u2014and by that right, deserving of not only a city, but an empire."
+  },
+  {
+    "name": "Quinn",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/quinn/",
+    "region": "Demacia",
+    "background_story": "Sponsored by the noble Buvelle family, Quinn is a ranger-knight of Demacia who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two of the kingdom\u2019s greatest heroes. Nimble and acrobatic, Quinn takes aim with her crossbow while Valor marks their elusive targets from above, making them a deadly pair on the battlefield."
+  },
+  {
+    "name": "Rakan",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/rakan/",
+    "region": "Ionia",
+    "background_story": "As mercurial as he is charming, Rakan is an infamous vastayan troublemaker and the greatest battle-dancer in Lhotlan tribal history. To the humans of the Ionian highlands, his name had long been synonymous with wild festivals, uncontrollable parties, and anarchic music. But this energetic, traveling showman has left his old life behind, dedicating himself to the cause of his lover, the rebel Xayah. Together, they seek to free Ionia\u2019s wild magic, restoring the vastaya\u2019s birthright."
+  },
+  {
+    "name": "Rammus",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/rammus/",
+    "region": "Shurima",
+    "background_story": "Idolized by many, dismissed by some, mystifying to all, the curious being Rammus is an enigma. Protected by a spiked shell, he inspires increasingly disparate theories on his origin wherever he goes\u2014from demigod, to sacred oracle, to a mere beast transformed by magic. Whatever the truth may be, Rammus keeps his own counsel and stops for no one as he roams the Shuriman desert."
+  },
+  {
+    "name": "Rek'Sai",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/reksai/",
+    "region": "The Void",
+    "background_story": "An apex predator, Rek\u2019Sai is a merciless Void-spawn that tunnels beneath the ground to ambush and devour unsuspecting prey. Her insatiable hunger has laid waste to entire regions of the once-great empire of Shurima\u2014merchants, traders, even armed caravans, will go hundreds of miles out of their way to avoid her and her offspring\u2019s hunting grounds. All know that once Rek\u2019Sai is seen on the horizon, death from below is all but guaranteed."
+  },
+  {
+    "name": "Rell",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/rell/",
+    "region": "Noxus",
+    "background_story": "The product of brutal experimentation at the hands of the Black Rose, Rell is a defiant, living weapon determined to topple Noxus. Her childhood was one of misery and horror, enduring unspeakable procedures to perfect and weaponize her magical control over metal... until she made a violent escape, killing many of her captors in the process. Now branded as a criminal, Rell attacks Noxian soldiers on sight as she searches for survivors of her old \u201cacademy\u201d, defending the meek while delivering merciless death to her former instructors."
+  },
+  {
+    "name": "Renekton",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/renekton/",
+    "region": "Shurima",
+    "background_story": "Renekton is a terrifying, rage-fueled Ascended warrior from the scorched deserts of Shurima. Once, he was his empire\u2019s most esteemed champion, leading its grand armies to countless victories. However, after the fall of the Sun Disc, Renekton was entombed beneath the sands\u2014and slowly, as the world above changed, he succumbed to insanity. Now free once more, he is utterly consumed with wreaking vengeance upon his brother, Nasus, who he blames for the centuries lost in darkness."
+  },
+  {
+    "name": "Rengar",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/rengar/",
+    "region": "Ixtal",
+    "background_story": "Rengar is a ferocious vastayan trophy hunter who lives for the thrill of tracking down and killing dangerous creatures. He scours the world for the most fearsome beasts he can find, especially seeking any trace of Kha\u2019Zix, the void creature who scratched out his eye. Rengar stalks his prey neither for food nor glory, but for the sheer beauty of the pursuit."
+  },
+  {
+    "name": "Riven",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/riven/",
+    "region": "Noxus",
+    "background_story": "Once a swordmaster in the warhosts of Noxus, Riven rose through the ranks on the strength of her conviction and brutal efficiency, and was rewarded with a legendary runic blade and a warband of her own. However, on the Ionian front, Riven\u2019s faith in her nation was tested and ultimately broken. She severed all ties to the empire, seeking to find her place in a shattered world, even as rumors abounded that Noxus had been reforged. Now forced to return in chains, she faces the judgment of her former homeland..."
+  },
+  {
+    "name": "Rumble",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/rumble/",
+    "region": "Bandle City",
+    "background_story": "Rumble is a young inventor with a temper. Using nothing more than his own two hands and a heap of scrap, the feisty yordle constructed a colossal mech suit outfitted with an arsenal of electrified harpoons and incendiary rockets. Though others may scoff and sneer at his junkyard creations, Rumble doesn't mind\u2014after all, he's the one with the flamespitter."
+  },
+  {
+    "name": "Ryze",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/ryze/",
+    "region": "Runeterra",
+    "background_story": "Widely considered one of the most adept sorcerers on Runeterra, Ryze is an ancient, hard-bitten archmage with an impossibly heavy burden to bear. Armed with immense arcane power and a boundless constitution, he tirelessly hunts for World Runes\u2014fragments of the raw magic that once shaped the world from nothingness. He must retrieve these artifacts before they fall into the wrong hands, for Ryze understands the horrors they could unleash on Runeterra."
+  },
+  {
+    "name": "Samira",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/samira/",
+    "region": "Noxus",
+    "background_story": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on dangerous missions of the highest caliber. Wielding black-powder pistols and a custom-engineered blade, Samira thrives in life-or-death circumstances, eliminating any who stand in her way with flash and flair."
+  },
+  {
+    "name": "Sejuani",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/sejuani/",
+    "region": "Freljord",
+    "background_story": "Sejuani is the brutal, unforgiving Warmother of the Winter\u2019s Claw, one of the most feared tribes of the Freljord. Her people\u2019s survival is a constant, desperate battle against the elements, forcing them to raid Noxians, Demacians, and Avarosans alike to survive the harsh winters. Sejuani herself spearheads the most dangerous of these attacks from the saddle of her dr\u00fcvask boar Bristle, using her True Ice flail to freeze and shatter her enemies."
+  },
+  {
+    "name": "Senna",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/senna/",
+    "region": "Runeterra",
+    "background_story": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back\u2014only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself\u2014with every blast of her relic weapon, redeeming the souls lost within."
+  },
+  {
+    "name": "Seraphine",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/seraphine/",
+    "region": "Piltover",
+    "background_story": "Born in Piltover to Zaunite parents, Seraphine can hear the souls of others\u2014the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She performs for the sister cities to remind their citizens that they\u2019re not alone, that they\u2019re stronger together, and that, in her eyes, their potential is limitless."
+  },
+  {
+    "name": "Sett",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/sett/",
+    "region": "Ionia",
+    "background_story": "A leader of Ionia\u2019s growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to take seemingly endless amounts of punishment. Now, having climbed through the ranks of local combatants, Sett has muscled to the top, reigning over the pits he once fought in."
+  },
+  {
+    "name": "Shaco",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/shaco/",
+    "region": "Runeterra",
+    "background_story": "Crafted long ago as a plaything for a lonely prince, the enchanted marionette Shaco now delights in murder and mayhem. Corrupted by dark magic and the loss of his beloved charge, the once-kind puppet finds pleasure only in the misery of the poor souls he torments. He uses toys and simple tricks to deadly effect, finding the results of his bloody \u201cgames\u201d hilarious\u2014and for those who hear a dark chuckle in the dead of night, the Demon Jester may have marked them as his next plaything."
+  },
+  {
+    "name": "Shen",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/shen/",
+    "region": "Ionia",
+    "background_story": "Among the secretive, Ionian warriors known as the Kinkou, Shen serves as their leader, the Eye of Twilight. He longs to remain free from the confusion of emotion, prejudice, and ego, and walks the unseen path of dispassionate judgment between the spirit realm and the physical world. Tasked with enforcing the equilibrium between them, Shen wields blades of steel and arcane energy against any who would threaten it."
+  },
+  {
+    "name": "Shyvana",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/shyvana/",
+    "region": "Demacia",
+    "background_story": "Shyvana is a creature with pure elemental magic blazing in her heart. Though she most often appears humanoid, she can take her true form when necessary\u2014that of a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan IV, Shyvana now serves uneasily in his royal guard, struggling to find acceptance among the suspicious people of Demacia."
+  },
+  {
+    "name": "Singed",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/singed/",
+    "region": "Zaun",
+    "background_story": "Singed is a Zaunite alchymist of unmatched intellect, who has devoted his life to pushing the boundaries of knowledge\u2014with no price, even his own sanity, too high to pay. Is there a method to his madness? His concoctions rarely fail, but it appears to many that Singed has lost all sense of humanity, leaving a toxic trail of misery and terror in his wake."
+  },
+  {
+    "name": "Sion",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/sion/",
+    "region": "Noxus",
+    "background_story": "A brutal warlord from a bygone era, Sion was revered in Noxus for choking the life out of a Demacian king with his bare hands\u2014but, denied the peace of death, he was resurrected to serve his empire once more. His indiscriminate slaughter claims all who stand in his way, regardless of allegiance, proving he has retained little of his former humanity. With crude armor bolted onto his rotten flesh, Sion continues to charge into battle with reckless abandon, struggling to remember his true self between the swings of his mighty axe."
+  },
+  {
+    "name": "Sivir",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/sivir/",
+    "region": "Shurima",
+    "background_story": "Sivir is a renowned mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her services, and prides herself on recovering lost treasures from the catacombs beneath the old empire\u2014for a generous share of the profits, of course. With ancient forces stirring the very bones of Shurima, Sivir now finds herself torn between conflicting destinies\u2026"
+  },
+  {
+    "name": "Skarner",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/skarner/",
+    "region": "Shurima",
+    "background_story": "One of the brackern, Skarner is an immense crystalline scorpion from a hidden valley in Shurima. Known for their great wisdom and deep connection to magic, the brackern\u2019s bodies are fused with powerful life crystals which hold the living thoughts and memories of their ancestors. In an age long past, they entered hibernation to avoid destruction\u2014but recent, threatening events have roused Skarner, and he now strives to protect his dormant kin from those who would harm them."
+  },
+  {
+    "name": "Sona",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/sona/",
+    "region": "Demacia",
+    "background_story": "Sona is a virtuoso of the stringed etwahl, speaking only through her graceful chords and vibrant arias. Her genteel manner has endeared her to the Demacian nobility, though some speculate her arresting melodies actually emanate magic\u2014a dangerous prospect in the kingdom. Silent to outsiders but understood easily enough by close companions, Sona plucks her harmonies not only to soothe injured allies, but also to strike down unsuspecting enemies."
+  },
+  {
+    "name": "Soraka",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/soraka/",
+    "region": "Targon",
+    "background_story": "A wanderer from the celestial realm, Soraka gave up her immortal form to protect the mortal races from their own ignorance and violent instincts. She endeavors to spread the virtues of compassion and mercy to everyone she meets\u2014guiding the lost, and healing the wounded. For all Soraka has seen of this world's struggles, she still believes the people of Runeterra have yet to reach their full potential."
+  },
+  {
+    "name": "Swain",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/swain/",
+    "region": "Noxus",
+    "background_story": "Jericho Swain is the visionary ruler of Noxus, an expansionist nation that reveres only strength. Though he was cast down and crippled in the Ionian wars, his left arm severed, he seized control of the empire with ruthless determination\u2026 and a new, demonic hand. Now, Swain commands from the front lines, marching against a coming darkness that only he can see\u2014in glimpses gathered by shadowy ravens from the corpses all around him. In a swirl of sacrifice and secrets, the greatest secret of all is that the true enemy lies within."
+  },
+  {
+    "name": "Sylas",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/sylas/",
+    "region": "Demacia",
+    "background_story": "Raised in one of Demacia\u2019s lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City. As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers, who eventually imprisoned him for turning those same powers against them. Having now broken free, Sylas lives as a hardened revolutionary, using the magic of those around him to destroy the kingdom he once served\u2026 and his band of outcast mage followers seems to grow by the day."
+  },
+  {
+    "name": "Syndra",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/syndra/",
+    "region": "Ionia",
+    "background_story": "Syndra is a fearsome Ionian mage with incredible power at her command. As a child, she disturbed the village elders with her reckless and wild magic. She was sent away to be taught greater control, but eventually discovered her supposed mentor was restraining her abilities. Forming her feelings of betrayal and hurt into dark spheres of energy, Syndra has sworn to destroy all who would try to control her."
+  },
+  {
+    "name": "Tahm Kench",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/tahmkench/",
+    "region": "Runeterra",
+    "background_story": "Known by many names throughout history, the demon Tahm Kench travels the waterways of Runeterra, feeding his insatiable appetite with the misery of others. Though he may appear singularly charming and proud, he swaggers through the physical realm like a vagabond in search of unsuspecting prey. His lashing tongue can stun even a heavily armored warrior from a dozen paces, and to fall into his rumbling belly is to tumble into an abyss from which there is little hope of return."
+  },
+  {
+    "name": "Taliyah",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/taliyah/",
+    "region": "Shurima",
+    "background_story": "Taliyah is a nomadic mage from Shurima, torn between teenage wonder and adult responsibility. She has crossed nearly all of Valoran on a journey to learn the true nature of her growing powers, though more recently she has returned to protect her tribe. Some have mistaken her compassion for weakness and paid the ultimate price\u2014for beneath Taliyah\u2019s youthful demeanor is a will strong enough to move mountains, and a spirit fierce enough to make the earth itself tremble."
+  },
+  {
+    "name": "Talon",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/talon/",
+    "region": "Noxus",
+    "background_story": "Talon is the knife in the darkness, a merciless killer able to strike without warning and escape before any alarm is raised. He carved out a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill, and steal to survive. Adopted by the notorious Du Couteau family, he now plies his deadly trade at the empire\u2019s command, assassinating enemy leaders, captains, and heroes\u2026 as well as any Noxian foolish enough to earn the scorn of their masters."
+  },
+  {
+    "name": "Taric",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/taric/",
+    "region": "Targon",
+    "background_story": "Taric is host to the Aspect of the Protector, wielding incredible power as Runeterra\u2019s guardian of life, love, and beauty. Shamed by a dereliction of duty and exiled from his homeland of Demacia, Taric climbed Mount Targon to find redemption, only to discover a higher calling among the stars. Imbued with the might of a celestial being, the \u201cShield of Valoran\u201d now stands ever vigilant, against any who would threaten the people of this world."
+  },
+  {
+    "name": "Teemo",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/teemo/",
+    "region": "Bandle City",
+    "background_story": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout's Code, sometimes with such eagerness that he is unaware of the broader consequences of his actions. Though some say the existence of the Scouts is questionable, one thing is for certain: Teemo's conviction is nothing to be trifled with."
+  },
+  {
+    "name": "Thresh",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/thresh/",
+    "region": "Shadow Isles",
+    "background_story": "Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with slow, excruciating inventiveness. His victims suffer far beyond their brief mortal coil as Thresh wreaks agony upon their souls, imprisoning them in his unholy lantern to torture for all eternity."
+  },
+  {
+    "name": "Tristana",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/tristana/",
+    "region": "Bandle City",
+    "background_story": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making, Tristana was always inspired by the adventures of great warriors. She had heard much about Runeterra, its factions, and its wars, and believed her kind could become worthy of legend too. Setting foot in the world for the first time, she took up her trusty cannon Boomer, and now leaps into battle with steadfast courage and optimism."
+  },
+  {
+    "name": "Trundle",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/trundle/",
+    "region": "Freljord",
+    "background_story": "Trundle is a hulking and devious troll with a particularly vicious streak, and there is nothing he cannot bludgeon into submission\u2014not even the Freljord itself. Fiercely territorial, he chases down anyone foolish enough to enter his domain. Then, his massive club of True Ice at the ready, he chills his enemies to the bone and impales them with jagged, frozen pillars, laughing as they bleed out onto the tundra."
+  },
+  {
+    "name": "Tryndamere",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/tryndamere/",
+    "region": "Freljord",
+    "background_story": "Fueled by unbridled fury and rage, Tryndamere once carved his way through the Freljord, openly challenging the greatest warriors of the north to prepare himself for even darker days ahead. The wrathful barbarian has long sought revenge for the annihilation of his clan, but more recently he has found companionship with Ashe, forging an alliance of marriage with the Avarosan warmother. His almost inhuman strength and fortitude are legendary, and have delivered him and his new allies countless victories against the greatest of odds."
+  },
+  {
+    "name": "Twisted Fate",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/twistedfate/",
+    "region": "Bilgewater",
+    "background_story": "Twisted Fate is an infamous cardsharp and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking smile and an insouciant swagger. In every possible way, Twisted Fate always has an ace up his sleeve."
+  },
+  {
+    "name": "Twitch",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/twitch/",
+    "region": "Zaun",
+    "background_story": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really are. Always a sneaky sneak, when he\u2019s not rooting around in the Sump, he\u2019s digging deep into other people\u2019s garbage for discarded treasures\u2026 and perhaps a moldy sandwich."
+  },
+  {
+    "name": "Udyr",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/udyr/",
+    "region": "Freljord",
+    "background_story": "Udyr is more than a man\u2014he is a vessel for the untamed power of primal Freljordian animal spirits. When tapping into their bestial natures, he can harness different strengths, channeling untold speed, resilience, and brutal ferocity. With their combined might, Udyr will turn back all those who dare to harm the natural order of the world."
+  },
+  {
+    "name": "Urgot",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/urgot/",
+    "region": "Zaun",
+    "background_story": "Once a powerful Noxian headsman, Urgot was betrayed by the empire for which he had killed so many. Bound in iron chains, he was forced to learn the true meaning of strength in the Dredge\u2014a prison mine deep beneath Zaun. Emerging in a disaster that spread chaos throughout the city, he now casts an imposing shadow over its criminal underworld. Raising his victims on the very chains that once enslaved him, he will purge his new home of the unworthy, making it a crucible of pain."
+  },
+  {
+    "name": "Varus",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/varus/",
+    "region": "Ionia",
+    "background_story": "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade flesh of two Ionian hunters\u2014they had unwittingly released him, cursed to bear the bow containing his bound essence. Varus now seeks out those who trapped him, in order to enact his brutal vengeance, but the mortal souls within still resist him every step of the way."
+  },
+  {
+    "name": "Vayne",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/vayne/",
+    "region": "Demacia",
+    "background_story": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts."
+  },
+  {
+    "name": "Veigar",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/veigar/",
+    "region": "Bandle City",
+    "background_story": "An enthusiastic yordle sorcerer, Veigar has embraced powers that few others dare even approach. As a free-spirited inhabitant of Bandle City, he once longed to learn more of the celestial magic practiced by mortals, but his natural curiosity was twisted by imprisonment in the Immortal Bastion. Now a stubborn creature with the dark fury of the stars at his command, Veigar is often underestimated by others\u2014and though he believes himself truly evil, there are some who still question his deeper motivations\u2026"
+  },
+  {
+    "name": "Vel'Koz",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/velkoz/",
+    "region": "The Void",
+    "background_story": "It is unclear if Vel\u2019Koz was the first Voidborn to emerge on Runeterra, but there has certainly never been another to match his level of cruel, calculating sentience. While his kin devour or defile everything around them, he seeks instead to scrutinize and study the physical realm\u2014and the strange, warlike beings that dwell there\u2014for any weakness the Void might exploit. But Vel\u2019Koz is far from a passive observer, striking back at threats with deadly plasma, or by disrupting the very fabric of the world itself."
+  },
+  {
+    "name": "Vex",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/vex/",
+    "region": "Shadow Isles",
+    "background_story": "In the black heart of the Shadow Isles, a lone yordle trudges through the spectral fog, content in its murky misery. With an endless supply of teen angst and a powerful shadow in tow, Vex lives in her own self-made slice of gloom, far from the revolting cheer of the \u201cnormie\u201d world. Though she lacks ambition, she is quick to strike down color and happiness, stopping all would-be interlopers with her magical malaise."
+  },
+  {
+    "name": "Vi",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/vi/",
+    "region": "Piltover",
+    "background_story": "Once a criminal from the mean streets of Zaun, Vi is a hotheaded, impulsive, and fearsome woman with only a very loose respect for authority figures. Growing up all but alone, Vi developed finely honed survival instincts as well as a wickedly abrasive sense of humor. Now working with the Wardens to keep the peace in Piltover, she wields mighty hextech gauntlets that can punch through walls\u2014and suspects\u2014with equal ease."
+  },
+  {
+    "name": "Viego",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/viego/",
+    "region": "Shadow Isles",
+    "background_story": "Once ruler of a long-lost kingdom, Viego perished over a thousand years ago when his attempt to bring his wife back from the dead triggered the magical catastrophe known as the Ruination. Transformed into a powerful, unliving wraith tortured by an obsessive longing for his centuries-dead queen, Viego now stands as the Ruined King, controlling the deadly Harrowings as he scours Runeterra for anything that might one day restore her, and destroying all in his path as the Black Mist pours endlessly from his cruel, broken heart."
+  },
+  {
+    "name": "Viktor",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/viktor/",
+    "region": "Zaun",
+    "background_story": "The herald of a new age of technology, Viktor has devoted his life to the advancement of humankind. An idealist who seeks to lift the people of Zaun to a new level of understanding, he believes that only by embracing a glorious evolution of technology can humanity\u2019s full potential be realized. With a body augmented by steel and science, Viktor is zealous in his pursuit of this bright future."
+  },
+  {
+    "name": "Vladimir",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/vladimir/",
+    "region": "Noxus",
+    "background_story": "A fiend with a thirst for mortal blood, Vladimir has influenced the affairs of Noxus since the empire\u2019s earliest days. In addition to unnaturally extending his life, his mastery of hemomancy allows him to control the minds and bodies of others as easily as his own. In the flamboyant salons of the Noxian aristocracy, this enabled him to build a fanatical cult of personality around himself\u2014while in the lowest back alleys, it allows him to bleed his enemies dry."
+  },
+  {
+    "name": "Volibear",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/volibear/",
+    "region": "Freljord",
+    "background_story": "To those who still revere him, the Volibear is the storm made manifest. Destructive, wild, and stubbornly resolute, he existed before mortals walked the Freljord\u2019s tundra, and is fiercely protective of the lands that he and his demi-god kin created. Cultivating a deep hatred of civilization and the weakness it brought with it, he now fights to return to the old ways\u2014when the land was untamed, and blood spilled freely\u2014and eagerly battles all who oppose him, with tooth, claw, and thundering domination."
+  },
+  {
+    "name": "Warwick",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/warwick/",
+    "region": "Zaun",
+    "background_story": "Warwick is a monster who hunts the gray alleys of Zaun. Transformed by agonizing experiments, his body is fused with an intricate system of chambers and pumps, machinery filling his veins with alchemical rage. Bursting out of the shadows, he preys upon those criminals who terrorize the city\u2019s depths. Warwick is drawn to blood, and driven mad by its scent. None who spill it can escape him."
+  },
+  {
+    "name": "Wukong",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/monkeyking/",
+    "region": "Ionia",
+    "background_story": "Wukong is a vastayan trickster who uses his strength, agility, and intelligence to confuse his opponents and gain the upper hand. After finding a lifelong friend in the warrior known as Master Yi, Wukong became the last student of the ancient martial art known as Wuju. Armed with an enchanted staff, Wukong seeks to prevent Ionia from falling to ruin."
+  },
+  {
+    "name": "Xayah",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/xayah/",
+    "region": "Ionia",
+    "background_story": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to protect their dwindling tribe, and restore their race to her vision of its former glory."
+  },
+  {
+    "name": "Xerath",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/xerath/",
+    "region": "Shurima",
+    "background_story": "Xerath is an Ascended Magus of ancient Shurima, a being of arcane energy writhing in the broken shards of a magical sarcophagus. For millennia, he was trapped beneath the desert sands, but the rise of Shurima freed him from his ancient prison. Driven insane with power, he now seeks to take what he believes is rightfully his and replace the upstart civilizations of the world with one fashioned in his image."
+  },
+  {
+    "name": "Xin Zhao",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/xinzhao/",
+    "region": "Demacia",
+    "background_story": "Xin Zhao is a resolute warrior loyal to the royal family of Demacia. Once condemned to the fighting pits of Noxus, he survived countless gladiatorial bouts. It was not until he faced the forces of King Jarvan III in battle that he decided to relinquish his past life, in favor of serving what he saw as a more honorable cause. Armed with his favored three-talon spear, Xin Zhao now fights for his adopted kingdom, audaciously challenging any foe, no matter the odds."
+  },
+  {
+    "name": "Yasuo",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/yasuo/",
+    "region": "Ionia",
+    "background_story": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master\u2014unable to prove his innocence, he was forced to slay his own brother in self-defense. In time, his master\u2019s true killer was revealed, and his brother mysteriously returned from death, yet Yasuo still could not forgive himself for all he had done. Now, he wanders the world with only the wind to guide his blade."
+  },
+  {
+    "name": "Yone",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/yone/",
+    "region": "Ionia",
+    "background_story": "In life, he was Yone\u2014half-brother of Yasuo, and renowned student of his village\u2019s sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own sword. Now, cursed to wear its demonic mask upon his face, Yone tirelessly hunts all such creatures in order to understand what he has become."
+  },
+  {
+    "name": "Yorick",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/yorick/",
+    "region": "Shadow Isles",
+    "background_story": "The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking spirits that he gathers to him. Yorick\u2019s monstrous actions belie his noble purpose: to free his home from the curse of the Ruination."
+  },
+  {
+    "name": "Yuumi",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/yuumi/",
+    "region": "Bandle City",
+    "background_story": "A magical cat from Bandle City, Yuumi was once the familiar of a yordle enchantress, Norra. When her master mysteriously disappeared, Yuumi became the Keeper of Norra\u2019s sentient Book of Thresholds, traveling through portals in its pages to search for her. Yearning for affection, Yuumi seeks friendly companions to partner with on her journey, protecting them with luminous shields and fierce resolve. While Book strives to keep her on task, Yuumi is often drawn to worldly comforts, such as naps and fish. In the end, however, she always returns to her quest to find her friend."
+  },
+  {
+    "name": "Zac",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/zac/",
+    "region": "Zaun",
+    "background_story": "Zac is the product of a toxic spill that ran through a chemtech seam and pooled in an isolated cavern deep in Zaun\u2019s Sump. Despite such humble origins, Zac has grown from primordial ooze into a thinking being who dwells in the city\u2019s pipes, occasionally emerging to help those who cannot help themselves or to rebuild the broken infrastructure of Zaun."
+  },
+  {
+    "name": "Zed",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/zed/",
+    "region": "Ionia",
+    "background_story": "Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia\u2019s magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock the secret shadow form\u2014a malevolent spirit magic as dangerous and corrupting as it is powerful. Zed has mastered all of these forbidden techniques to destroy anything he sees as a threat to his nation, or his new order."
+  },
+  {
+    "name": "Ziggs",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/ziggs/",
+    "region": "Zaun",
+    "background_story": "With a love of big bombs and short fuses, the yordle Ziggs is an explosive force of nature. As an inventor\u2019s assistant in Piltover, he was bored by his predictable life and befriended a mad, blue-haired bomber named Jinx. After a wild night on the town, Ziggs took her advice and moved to Zaun, where he now explores his fascinations more freely, terrorizing the chem-barons and regular citizens alike in his never ending quest to blow stuff up."
+  },
+  {
+    "name": "Zilean",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/zilean/",
+    "region": "Runeterra",
+    "background_story": "Once a member of Icathia\u2019s governing council, Zilean is a prodigious elemental mage who seeks mastery over time itself. After using his powers in an attempt to save his people from the Void, he now drifts through the past, present, and future, bending and warping the flow of time around him. Zilean has traveled from Runeterra\u2019s mysterious creation, all the way to its seemingly inevitable ending, searching tirelessly for any strand of fate that might undo his homeland\u2019s destruction."
+  },
+  {
+    "name": "Zoe",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/zoe/",
+    "region": "Targon",
+    "background_story": "As the embodiment of mischief, imagination, and change, Zoe acts as the cosmic messenger of Targon, heralding major events that reshape worlds. Her mere presence warps the arcane mathematics governing realities, sometimes causing cataclysms without conscious effort or malice. This perhaps explains the breezy nonchalance with which Zoe approaches her duties, giving her plenty of time to focus on playing games, tricking mortals, or otherwise amusing herself. An encounter with Zoe can be joyous and life affirming, but it is always more than it appears and often extremely dangerous."
+  },
+  {
+    "name": "Zyra",
+    "main_page_url": "https://universe.leagueoflegends.com/en_US/champion/zyra/",
+    "region": "Ixtal",
+    "background_story": "Born in an ancient, sorcerous catastrophe, Zyra is the wrath of nature given form\u2014an alluring hybrid of plant and human, kindling new life with every step. She views the many mortals of Valoran as little more than prey for her seeded progeny, and thinks nothing of slaying them with flurries of deadly spines. Though her true purpose has not been revealed, Zyra wanders the world, indulging her most primal urges to colonize, and strangle all other life from it."
+  }
+]

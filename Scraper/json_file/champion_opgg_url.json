@@ -1,0 +1,782 @@
+[
+  {
+    "Champion_Name": "Aatrox",
+    "Opgg_Main_Page": "https://www.op.gg/champion/aatrox/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/aatrox/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Ahri",
+    "Opgg_Main_Page": "https://www.op.gg/champion/ahri/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/ahri/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Akali",
+    "Opgg_Main_Page": "https://www.op.gg/champion/akali/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/akali/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Akshan",
+    "Opgg_Main_Page": "https://www.op.gg/champion/akshan/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/akshan/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Alistar",
+    "Opgg_Main_Page": "https://www.op.gg/champion/alistar/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/alistar/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Amumu",
+    "Opgg_Main_Page": "https://www.op.gg/champion/amumu/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/amumu/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Anivia",
+    "Opgg_Main_Page": "https://www.op.gg/champion/anivia/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/anivia/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Annie",
+    "Opgg_Main_Page": "https://www.op.gg/champion/annie/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/annie/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Aphelios",
+    "Opgg_Main_Page": "https://www.op.gg/champion/aphelios/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/aphelios/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Ashe",
+    "Opgg_Main_Page": "https://www.op.gg/champion/ashe/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/ashe/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Aurelion Sol",
+    "Opgg_Main_Page": "https://www.op.gg/champion/aurelionsol/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/aurelionsol/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Azir",
+    "Opgg_Main_Page": "https://www.op.gg/champion/azir/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/azir/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Bard",
+    "Opgg_Main_Page": "https://www.op.gg/champion/bard/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/bard/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Blitzcrank",
+    "Opgg_Main_Page": "https://www.op.gg/champion/blitzcrank/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/blitzcrank/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Brand",
+    "Opgg_Main_Page": "https://www.op.gg/champion/brand/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/brand/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Braum",
+    "Opgg_Main_Page": "https://www.op.gg/champion/braum/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/braum/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Caitlyn",
+    "Opgg_Main_Page": "https://www.op.gg/champion/caitlyn/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/caitlyn/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Camille",
+    "Opgg_Main_Page": "https://www.op.gg/champion/camille/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/camille/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Cassiopeia",
+    "Opgg_Main_Page": "https://www.op.gg/champion/cassiopeia/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/cassiopeia/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Cho'Gath",
+    "Opgg_Main_Page": "https://www.op.gg/champion/chogath/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/chogath/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Corki",
+    "Opgg_Main_Page": "https://www.op.gg/champion/corki/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/corki/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Darius",
+    "Opgg_Main_Page": "https://www.op.gg/champion/darius/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/darius/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Diana",
+    "Opgg_Main_Page": "https://www.op.gg/champion/diana/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/diana/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Dr. Mundo",
+    "Opgg_Main_Page": "https://www.op.gg/champion/drmundo/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/drmundo/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Draven",
+    "Opgg_Main_Page": "https://www.op.gg/champion/draven/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/draven/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Ekko",
+    "Opgg_Main_Page": "https://www.op.gg/champion/ekko/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/ekko/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Elise",
+    "Opgg_Main_Page": "https://www.op.gg/champion/elise/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/elise/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Evelynn",
+    "Opgg_Main_Page": "https://www.op.gg/champion/evelynn/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/evelynn/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Ezreal",
+    "Opgg_Main_Page": "https://www.op.gg/champion/ezreal/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/ezreal/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Fiddlesticks",
+    "Opgg_Main_Page": "https://www.op.gg/champion/fiddlesticks/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/fiddlesticks/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Fiora",
+    "Opgg_Main_Page": "https://www.op.gg/champion/fiora/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/fiora/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Fizz",
+    "Opgg_Main_Page": "https://www.op.gg/champion/fizz/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/fizz/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Galio",
+    "Opgg_Main_Page": "https://www.op.gg/champion/galio/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/galio/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Gangplank",
+    "Opgg_Main_Page": "https://www.op.gg/champion/gangplank/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/gangplank/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Garen",
+    "Opgg_Main_Page": "https://www.op.gg/champion/garen/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/garen/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Gnar",
+    "Opgg_Main_Page": "https://www.op.gg/champion/gnar/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/gnar/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Gragas",
+    "Opgg_Main_Page": "https://www.op.gg/champion/gragas/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/gragas/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Graves",
+    "Opgg_Main_Page": "https://www.op.gg/champion/graves/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/graves/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Gwen",
+    "Opgg_Main_Page": "https://www.op.gg/champion/gwen/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/gwen/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Hecarim",
+    "Opgg_Main_Page": "https://www.op.gg/champion/hecarim/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/hecarim/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Heimerdinger",
+    "Opgg_Main_Page": "https://www.op.gg/champion/heimerdinger/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/heimerdinger/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Illaoi",
+    "Opgg_Main_Page": "https://www.op.gg/champion/illaoi/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/illaoi/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Irelia",
+    "Opgg_Main_Page": "https://www.op.gg/champion/irelia/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/irelia/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Ivern",
+    "Opgg_Main_Page": "https://www.op.gg/champion/ivern/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/ivern/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Janna",
+    "Opgg_Main_Page": "https://www.op.gg/champion/janna/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/janna/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Jarvan IV",
+    "Opgg_Main_Page": "https://www.op.gg/champion/jarvaniv/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/jarvaniv/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Jax",
+    "Opgg_Main_Page": "https://www.op.gg/champion/jax/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/jax/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Jayce",
+    "Opgg_Main_Page": "https://www.op.gg/champion/jayce/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/jayce/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Jhin",
+    "Opgg_Main_Page": "https://www.op.gg/champion/jhin/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/jhin/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Jinx",
+    "Opgg_Main_Page": "https://www.op.gg/champion/jinx/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/jinx/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Kai'Sa",
+    "Opgg_Main_Page": "https://www.op.gg/champion/kaisa/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/kaisa/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Kalista",
+    "Opgg_Main_Page": "https://www.op.gg/champion/kalista/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/kalista/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Karma",
+    "Opgg_Main_Page": "https://www.op.gg/champion/karma/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/karma/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Karthus",
+    "Opgg_Main_Page": "https://www.op.gg/champion/karthus/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/karthus/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Kassadin",
+    "Opgg_Main_Page": "https://www.op.gg/champion/kassadin/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/kassadin/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Katarina",
+    "Opgg_Main_Page": "https://www.op.gg/champion/katarina/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/katarina/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Kayle",
+    "Opgg_Main_Page": "https://www.op.gg/champion/kayle/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/kayle/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Kayn",
+    "Opgg_Main_Page": "https://www.op.gg/champion/kayn/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/kayn/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Kennen",
+    "Opgg_Main_Page": "https://www.op.gg/champion/kennen/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/kennen/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Kha'Zix",
+    "Opgg_Main_Page": "https://www.op.gg/champion/khazix/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/khazix/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Kindred",
+    "Opgg_Main_Page": "https://www.op.gg/champion/kindred/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/kindred/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Kled",
+    "Opgg_Main_Page": "https://www.op.gg/champion/kled/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/kled/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Kog'Maw",
+    "Opgg_Main_Page": "https://www.op.gg/champion/kogmaw/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/kogmaw/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "LeBlanc",
+    "Opgg_Main_Page": "https://www.op.gg/champion/leblanc/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/leblanc/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Lee Sin",
+    "Opgg_Main_Page": "https://www.op.gg/champion/leesin/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/leesin/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Leona",
+    "Opgg_Main_Page": "https://www.op.gg/champion/leona/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/leona/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Lillia",
+    "Opgg_Main_Page": "https://www.op.gg/champion/lillia/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/lillia/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Lissandra",
+    "Opgg_Main_Page": "https://www.op.gg/champion/lissandra/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/lissandra/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Lucian",
+    "Opgg_Main_Page": "https://www.op.gg/champion/lucian/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/lucian/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Lulu",
+    "Opgg_Main_Page": "https://www.op.gg/champion/lulu/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/lulu/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Lux",
+    "Opgg_Main_Page": "https://www.op.gg/champion/lux/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/lux/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Malphite",
+    "Opgg_Main_Page": "https://www.op.gg/champion/malphite/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/malphite/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Malzahar",
+    "Opgg_Main_Page": "https://www.op.gg/champion/malzahar/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/malzahar/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Maokai",
+    "Opgg_Main_Page": "https://www.op.gg/champion/maokai/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/maokai/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Master Yi",
+    "Opgg_Main_Page": "https://www.op.gg/champion/masteryi/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/masteryi/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Miss Fortune",
+    "Opgg_Main_Page": "https://www.op.gg/champion/missfortune/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/missfortune/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Mordekaiser",
+    "Opgg_Main_Page": "https://www.op.gg/champion/mordekaiser/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/mordekaiser/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Morgana",
+    "Opgg_Main_Page": "https://www.op.gg/champion/morgana/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/morgana/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Nami",
+    "Opgg_Main_Page": "https://www.op.gg/champion/nami/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/nami/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Nasus",
+    "Opgg_Main_Page": "https://www.op.gg/champion/nasus/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/nasus/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Nautilus",
+    "Opgg_Main_Page": "https://www.op.gg/champion/nautilus/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/nautilus/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Neeko",
+    "Opgg_Main_Page": "https://www.op.gg/champion/neeko/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/neeko/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Nidalee",
+    "Opgg_Main_Page": "https://www.op.gg/champion/nidalee/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/nidalee/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Nocturne",
+    "Opgg_Main_Page": "https://www.op.gg/champion/nocturne/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/nocturne/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Nunu & Willump",
+    "Opgg_Main_Page": "https://www.op.gg/champion/nunu/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/nunu/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Olaf",
+    "Opgg_Main_Page": "https://www.op.gg/champion/olaf/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/olaf/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Orianna",
+    "Opgg_Main_Page": "https://www.op.gg/champion/orianna/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/orianna/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Ornn",
+    "Opgg_Main_Page": "https://www.op.gg/champion/ornn/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/ornn/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Pantheon",
+    "Opgg_Main_Page": "https://www.op.gg/champion/pantheon/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/pantheon/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Poppy",
+    "Opgg_Main_Page": "https://www.op.gg/champion/poppy/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/poppy/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Pyke",
+    "Opgg_Main_Page": "https://www.op.gg/champion/pyke/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/pyke/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Qiyana",
+    "Opgg_Main_Page": "https://www.op.gg/champion/qiyana/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/qiyana/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Quinn",
+    "Opgg_Main_Page": "https://www.op.gg/champion/quinn/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/quinn/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Rakan",
+    "Opgg_Main_Page": "https://www.op.gg/champion/rakan/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/rakan/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Rammus",
+    "Opgg_Main_Page": "https://www.op.gg/champion/rammus/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/rammus/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Rek'Sai",
+    "Opgg_Main_Page": "https://www.op.gg/champion/reksai/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/reksai/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Rell",
+    "Opgg_Main_Page": "https://www.op.gg/champion/rell/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/rell/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Renekton",
+    "Opgg_Main_Page": "https://www.op.gg/champion/renekton/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/renekton/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Rengar",
+    "Opgg_Main_Page": "https://www.op.gg/champion/rengar/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/rengar/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Riven",
+    "Opgg_Main_Page": "https://www.op.gg/champion/riven/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/riven/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Rumble",
+    "Opgg_Main_Page": "https://www.op.gg/champion/rumble/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/rumble/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Ryze",
+    "Opgg_Main_Page": "https://www.op.gg/champion/ryze/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/ryze/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Samira",
+    "Opgg_Main_Page": "https://www.op.gg/champion/samira/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/samira/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Sejuani",
+    "Opgg_Main_Page": "https://www.op.gg/champion/sejuani/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/sejuani/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Senna",
+    "Opgg_Main_Page": "https://www.op.gg/champion/senna/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/senna/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Seraphine",
+    "Opgg_Main_Page": "https://www.op.gg/champion/seraphine/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/seraphine/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Sett",
+    "Opgg_Main_Page": "https://www.op.gg/champion/sett/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/sett/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Shaco",
+    "Opgg_Main_Page": "https://www.op.gg/champion/shaco/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/shaco/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Shen",
+    "Opgg_Main_Page": "https://www.op.gg/champion/shen/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/shen/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Shyvana",
+    "Opgg_Main_Page": "https://www.op.gg/champion/shyvana/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/shyvana/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Singed",
+    "Opgg_Main_Page": "https://www.op.gg/champion/singed/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/singed/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Sion",
+    "Opgg_Main_Page": "https://www.op.gg/champion/sion/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/sion/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Sivir",
+    "Opgg_Main_Page": "https://www.op.gg/champion/sivir/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/sivir/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Sona",
+    "Opgg_Main_Page": "https://www.op.gg/champion/sona/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/sona/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Soraka",
+    "Opgg_Main_Page": "https://www.op.gg/champion/soraka/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/soraka/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Swain",
+    "Opgg_Main_Page": "https://www.op.gg/champion/swain/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/swain/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Sylas",
+    "Opgg_Main_Page": "https://www.op.gg/champion/sylas/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/sylas/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Syndra",
+    "Opgg_Main_Page": "https://www.op.gg/champion/syndra/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/syndra/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Tahm Kench",
+    "Opgg_Main_Page": "https://www.op.gg/champion/tahmkench/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/tahmkench/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Taliyah",
+    "Opgg_Main_Page": "https://www.op.gg/champion/taliyah/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/taliyah/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Talon",
+    "Opgg_Main_Page": "https://www.op.gg/champion/talon/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/talon/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Taric",
+    "Opgg_Main_Page": "https://www.op.gg/champion/taric/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/taric/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Teemo",
+    "Opgg_Main_Page": "https://www.op.gg/champion/teemo/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/teemo/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Thresh",
+    "Opgg_Main_Page": "https://www.op.gg/champion/thresh/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/thresh/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Tristana",
+    "Opgg_Main_Page": "https://www.op.gg/champion/tristana/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/tristana/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Trundle",
+    "Opgg_Main_Page": "https://www.op.gg/champion/trundle/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/trundle/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Tryndamere",
+    "Opgg_Main_Page": "https://www.op.gg/champion/tryndamere/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/tryndamere/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Twisted Fate",
+    "Opgg_Main_Page": "https://www.op.gg/champion/twistedfate/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/twistedfate/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Twitch",
+    "Opgg_Main_Page": "https://www.op.gg/champion/twitch/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/twitch/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Udyr",
+    "Opgg_Main_Page": "https://www.op.gg/champion/udyr/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/udyr/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Urgot",
+    "Opgg_Main_Page": "https://www.op.gg/champion/urgot/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/urgot/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Varus",
+    "Opgg_Main_Page": "https://www.op.gg/champion/varus/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/varus/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Vayne",
+    "Opgg_Main_Page": "https://www.op.gg/champion/vayne/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/vayne/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Veigar",
+    "Opgg_Main_Page": "https://www.op.gg/champion/veigar/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/veigar/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Vel'Koz",
+    "Opgg_Main_Page": "https://www.op.gg/champion/velkoz/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/velkoz/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Vex",
+    "Opgg_Main_Page": "https://www.op.gg/champion/vex/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/vex/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Vi",
+    "Opgg_Main_Page": "https://www.op.gg/champion/vi/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/vi/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Viego",
+    "Opgg_Main_Page": "https://www.op.gg/champion/viego/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/viego/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Viktor",
+    "Opgg_Main_Page": "https://www.op.gg/champion/viktor/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/viktor/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Vladimir",
+    "Opgg_Main_Page": "https://www.op.gg/champion/vladimir/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/vladimir/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Volibear",
+    "Opgg_Main_Page": "https://www.op.gg/champion/volibear/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/volibear/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Warwick",
+    "Opgg_Main_Page": "https://www.op.gg/champion/warwick/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/warwick/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Wukong",
+    "Opgg_Main_Page": "https://www.op.gg/champion/monkeyking/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/monkeyking/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Xayah",
+    "Opgg_Main_Page": "https://www.op.gg/champion/xayah/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/xayah/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Xerath",
+    "Opgg_Main_Page": "https://www.op.gg/champion/xerath/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/xerath/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Xin Zhao",
+    "Opgg_Main_Page": "https://www.op.gg/champion/xinzhao/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/xinzhao/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Yasuo",
+    "Opgg_Main_Page": "https://www.op.gg/champion/yasuo/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/yasuo/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Yone",
+    "Opgg_Main_Page": "https://www.op.gg/champion/yone/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/yone/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Yorick",
+    "Opgg_Main_Page": "https://www.op.gg/champion/yorick/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/yorick/statistics/top/matchup"
+  },
+  {
+    "Champion_Name": "Yuumi",
+    "Opgg_Main_Page": "https://www.op.gg/champion/yuumi/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/yuumi/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Zac",
+    "Opgg_Main_Page": "https://www.op.gg/champion/zac/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/zac/statistics/jungle/matchup"
+  },
+  {
+    "Champion_Name": "Zed",
+    "Opgg_Main_Page": "https://www.op.gg/champion/zed/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/zed/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Ziggs",
+    "Opgg_Main_Page": "https://www.op.gg/champion/ziggs/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/ziggs/statistics/adc/matchup"
+  },
+  {
+    "Champion_Name": "Zilean",
+    "Opgg_Main_Page": "https://www.op.gg/champion/zilean/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/zilean/statistics/support/matchup"
+  },
+  {
+    "Champion_Name": "Zoe",
+    "Opgg_Main_Page": "https://www.op.gg/champion/zoe/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/zoe/statistics/mid/matchup"
+  },
+  {
+    "Champion_Name": "Zyra",
+    "Opgg_Main_Page": "https://www.op.gg/champion/zyra/statistics",
+    "Counter_Page_URL": "https://www.op.gg/champion/zyra/statistics/support/matchup"
+  }
+]
