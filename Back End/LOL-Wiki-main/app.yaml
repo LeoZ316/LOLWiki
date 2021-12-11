@@ -1,0 +1,13 @@
+runtime: python38
+instance_class: F1
+
+
+runtime_config:
+  python_version: 3
+
+
+env_variables:
+  MYSQL_USER: 'allen'
+  MYSQL_PASSWORD: '141516'
+  MYSQL_DB: 'LOL'
+  MYSQL_HOST: '34.70.48.139'
